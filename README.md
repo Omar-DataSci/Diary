@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="README-style.css">
 <link rel="stylesheet" href="phone-style.css" media="screen and (max-width: 1024px)">
 
+<div id="scrool-bar"></div>
+
 <container>
 <div class="cd-player-container" title="Click to Play / Pause Music">
 
