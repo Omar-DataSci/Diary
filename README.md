@@ -4970,15 +4970,17 @@ see you..in another life (maybe).
 </div>
 </div>
 
+
 <div log-branch="alter">
   <input type="checkbox" id="log-day42" class="toggle-input" style="display:none;">
   
   <label for="log-day41" class="log-trigger glowing-timeline">
-    <h3>📝 Log Day 42: ..Good bye</h3>
+    <h3>📝 Log Day 42: aftermath..after the gift</h3>
   </label>
   
   <div class="log-content">
 
+### log Day 42 : 01/07/2026 
 
 <t>10:10 AM</t>
 
@@ -4996,17 +4998,95 @@ I want to write a story.
 
 See in you. 
 
+---
+
+<t>05:40 PM</t>
+
+I sent you the gift..sent 3..
+
+the first was a websiste,an intreactive game..
+
+you opned it tried few clicks..then closed it..
+
+and you thanked me..for the gift
+
+but you..didn't see the gift..
+
+you didn't open the..time capsule..
+
+you didn't read the secret i put..
+
+you didn't explore the gift...
+
+..
+
+and then i sent you another..the second gift
+
+the journey of making a gift..
+
+you told me that..you don't trust me
+
+you don't know me yet..
+
+i answered all what your asking in that gift.
+
+you just didn't look close enough..
+
+then you say..i feel we are close yet so far..
+
+the thing made me spend 40 days..trying to close that distance
+
+to show you who am ..
+
+but you never looked deeper
+
+that gift..was me..calling..to be understood
+
+but you were blind,..
+
+exactly like the blind man story..
+
+you asked me what if i forget..
+
+i never forget..i built..a room to hold our memories
+
+but i think..it was just me..day dreaming again..
+
+thought am right beside you talking..to you
+
+then you laughed turned to me and asked..who you are..
+
+...
+
+the third..was hidden underneeth layers..of the second gift
+
+it what comes before the room..
+
+but it never had the chance to see the light..
+
+i understand..i can't be understood...
+
+again another dream died before seeing the light..
+
+and i know someday maybe you will pick the gift..
+
+and try to understand..what i was trying to say.
+
+but i think by that time it's too late..
+
+the person who waited beside the door...
+
+won't be there anymore.
+
+
+```bash
+git commit -m "Final departure"
+```
+
+
+
 </div>
 </div>
-
-
-
-
-
-
-
-
-
 
 
 

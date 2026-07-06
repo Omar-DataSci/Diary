@@ -780,15 +780,14 @@ memory {
     color:#888;
     opacity: 0.7;
     filter: blur(7px);
-    letter-spacing: 2px;
+    letter-spacing: 1.7px;
     transition: all 3s ease-in-out ; /* Smooth transit both ways */
 
 }
 
 
-memory:hover {
+memory:active {
     color:var(--terminal-color);
-
     animation: memory-flicker 4s ease forwards;
 }
 
@@ -797,32 +796,36 @@ memory:hover {
     0% {
         opacity: 0.5;
         filter: blur(6px);
+        letter-spacing: 1.5px;
 
     }
 
     20% {
         opacity: 0.8;
         filter: blur(2px);
-        letter-spacing: 1.2px;
+        letter-spacing: 1.4px;
     }
 
     35% {
         opacity: 0.6;
         filter: blur(4px);
-        letter-spacing: 1.5px;
+        letter-spacing: -1px;
+
 
     }
 
     50% {
         opacity: 0.6;
         filter: blur(4px);
-        letter-spacing: normal;
+        letter-spacing: 1.3px;
     }
 
 
     60% {
         opacity: 1;
         filter: blur(1px);
+        letter-spacing: 1.1px;
+
 
     }
 
@@ -1641,6 +1644,7 @@ prog {
     transform-origin: 0%;
     animation: glowProgress linear;
     animation-timeline: scroll();
+    box-shadow: 0 0 10px var(--primary-color);
 }
 
 @keyframes glowProgress {
