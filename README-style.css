@@ -508,6 +508,9 @@ container {
     cursor: help;
   }
 
+p {
+    white-space: pre-wrap;
+}
 
 /* ======================================================================================= */
 
@@ -519,12 +522,14 @@ container {
     /* font-size: var(--font-13px); */
     border-radius: 6px;
     margin: 1em 0;
-    white-space: nowrap;
+    white-space: pre-wrap;
 
 }
     pre code {
     color: var(--text-color) !important;
     font-family: var(--terminal-txt-font);
+    white-space: pre-wrap;
+
 }
 /* يستهدف فقط الفتحات الخلفية الفردية ويحولها إلى الكتلة الجميلة التي طلبتها */
 
