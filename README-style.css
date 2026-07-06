@@ -26,6 +26,9 @@
   --git-log:"(HEAD -> main, origin/main, origin/HEAD)"
 }
 
+*, *::before, *::after {
+  box-sizing: border-box;
+}
 
 
 body {
@@ -35,10 +38,11 @@ body {
     padding: 20px;
     max-width: 100dvw;
     font-size: clamp(15px, 0.9rem + 0.5vw, 20px);
-    margin: 0 0 0 20px;
+    margin: 0;
     line-height: 1.6;
     overflow-x: hidden;
     white-space: normal;
+    padding: 20px;
 
 }
 body::selection {
@@ -515,7 +519,7 @@ container {
     /* font-size: var(--font-13px); */
     border-radius: 6px;
     margin: 1em 0;
-    white-space: normal;
+    white-space: nowrap;
 
 }
     pre code {

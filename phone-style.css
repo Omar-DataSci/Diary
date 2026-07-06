@@ -10,10 +10,11 @@ Mobile Branch Experience
 
   body {
     font-size: 1.25rem ;
-    width:100%;
     line-height: 1.6;
-    margin: auto;
+    margin: 0;
     padding: 1.5rem;
+    overflow-x: hidden;
+
 }
   /* Remove hover dependence */
   [log-branch="main"] .log-trigger:hover,
