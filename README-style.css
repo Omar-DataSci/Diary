@@ -1166,8 +1166,8 @@ border-top: 4px solid #282A35 ;
 color: #f8f8f2d7;
 padding: 15px;
 border-radius: 6px;
-max-width:600px;
-max-height:300px;
+max-width:60%;
+max-height:350px;
 overflow: auto;
 white-space: pre-wrap;
 
