@@ -4974,8 +4974,8 @@ see you..in another life (maybe).
 <div log-branch="alter">
   <input type="checkbox" id="log-day42" class="toggle-input" style="display:none;">
   
-  <label for="log-day41" class="log-trigger glowing-timeline">
-    <h3>📝 Log Day 42: aftermath..after the gift</h3>
+  <label for="log-day42" class="log-trigger glowing-timeline">
+    <h3>📝 Log Day 42: Aftermath..after the gift</h3>
   </label>
   
   <div class="log-content">
@@ -5079,9 +5079,11 @@ the person who waited beside the door...
 won't be there anymore.
 
 
-```bash
+<terminal>
 git commit -m "Final departure"
-```
+
+<corrupt data-text="🌸 Omar's Room:~$">🌸 Zoli's Room:~$</corrupt><cursor></cursor></terminal>
+
 
 
 
